@@ -1,0 +1,61 @@
+{
+  "files": {
+<<<<<<< HEAD
+    "main.css": "/static/css/main.96e948a6.css",
+    "main.js": "/static/js/main.130120ef.js",
+    "static/js/349.2ad65ed3.chunk.js": "/static/js/349.2ad65ed3.chunk.js",
+    "static/js/566.24f3ed04.chunk.js": "/static/js/566.24f3ed04.chunk.js",
+    "static/js/922.c1a9f7bd.chunk.js": "/static/js/922.c1a9f7bd.chunk.js",
+    "static/js/834.cfa036e1.chunk.js": "/static/js/834.cfa036e1.chunk.js",
+    "static/js/284.d041885f.chunk.js": "/static/js/284.d041885f.chunk.js",
+    "static/media/logo.png": "/static/media/logo.53674383ee2997e5d533.png",
+    "static/media/logo-white.png": "/static/media/logo-white.37af3e9898b4e85e712d.png",
+    "static/media/logo-black.png": "/static/media/logo-black.14f06a6d1512871e038d.png",
+    "static/media/CEO_Profile.jpg": "/static/media/CEO_Profile.67a24be1b1c6c9c3731f.jpg",
+    "static/media/responsive.svg": "/static/media/responsive.0571a0c9d1a5c5f214ac014fbbc7fba3.svg",
+    "index.html": "/index.html",
+    "static/media/wave-to-bottom.svg": "/static/media/wave-to-bottom.cdd259a542feffaadcc34076ef599e23.svg",
+    "static/media/wave-top.svg": "/static/media/wave-top.fa8e1d66c467e01fa370f9ae5033c29c.svg",
+    "static/media/wave.svg": "/static/media/wave.f67c61871930796affdf7f2c203f7185.svg",
+    "main.96e948a6.css.map": "/static/css/main.96e948a6.css.map",
+    "main.130120ef.js.map": "/static/js/main.130120ef.js.map",
+    "349.2ad65ed3.chunk.js.map": "/static/js/349.2ad65ed3.chunk.js.map",
+    "566.24f3ed04.chunk.js.map": "/static/js/566.24f3ed04.chunk.js.map",
+    "922.c1a9f7bd.chunk.js.map": "/static/js/922.c1a9f7bd.chunk.js.map",
+    "834.cfa036e1.chunk.js.map": "/static/js/834.cfa036e1.chunk.js.map",
+    "284.d041885f.chunk.js.map": "/static/js/284.d041885f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96e948a6.css",
+    "static/js/main.130120ef.js"
+=======
+    "main.css": "/devcraft/static/css/main.96e948a6.css",
+    "main.js": "/devcraft/static/js/main.8611a83f.js",
+    "static/js/349.2ad65ed3.chunk.js": "/devcraft/static/js/349.2ad65ed3.chunk.js",
+    "static/js/566.24f3ed04.chunk.js": "/devcraft/static/js/566.24f3ed04.chunk.js",
+    "static/js/922.c1a9f7bd.chunk.js": "/devcraft/static/js/922.c1a9f7bd.chunk.js",
+    "static/js/834.cfa036e1.chunk.js": "/devcraft/static/js/834.cfa036e1.chunk.js",
+    "static/js/284.d041885f.chunk.js": "/devcraft/static/js/284.d041885f.chunk.js",
+    "static/media/logo.png": "/devcraft/static/media/logo.53674383ee2997e5d533.png",
+    "static/media/logo-white.png": "/devcraft/static/media/logo-white.37af3e9898b4e85e712d.png",
+    "static/media/logo-black.png": "/devcraft/static/media/logo-black.14f06a6d1512871e038d.png",
+    "static/media/CEO_Profile.jpg": "/devcraft/static/media/CEO_Profile.67a24be1b1c6c9c3731f.jpg",
+    "static/media/responsive.svg": "/devcraft/static/media/responsive.0571a0c9d1a5c5f214ac014fbbc7fba3.svg",
+    "index.html": "/devcraft/index.html",
+    "static/media/wave-to-bottom.svg": "/devcraft/static/media/wave-to-bottom.cdd259a542feffaadcc34076ef599e23.svg",
+    "static/media/wave-top.svg": "/devcraft/static/media/wave-top.fa8e1d66c467e01fa370f9ae5033c29c.svg",
+    "static/media/wave.svg": "/devcraft/static/media/wave.f67c61871930796affdf7f2c203f7185.svg",
+    "main.96e948a6.css.map": "/devcraft/static/css/main.96e948a6.css.map",
+    "main.8611a83f.js.map": "/devcraft/static/js/main.8611a83f.js.map",
+    "349.2ad65ed3.chunk.js.map": "/devcraft/static/js/349.2ad65ed3.chunk.js.map",
+    "566.24f3ed04.chunk.js.map": "/devcraft/static/js/566.24f3ed04.chunk.js.map",
+    "922.c1a9f7bd.chunk.js.map": "/devcraft/static/js/922.c1a9f7bd.chunk.js.map",
+    "834.cfa036e1.chunk.js.map": "/devcraft/static/js/834.cfa036e1.chunk.js.map",
+    "284.d041885f.chunk.js.map": "/devcraft/static/js/284.d041885f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96e948a6.css",
+    "static/js/main.8611a83f.js"
+>>>>>>> 7b3a340 (Deploy React app)
+  ]
+}
