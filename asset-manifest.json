@@ -1,6 +1,5 @@
 {
   "files": {
-<<<<<<< HEAD
     "main.css": "/static/css/main.96e948a6.css",
     "main.js": "/static/js/main.130120ef.js",
     "static/js/349.2ad65ed3.chunk.js": "/static/js/349.2ad65ed3.chunk.js",
@@ -56,6 +55,5 @@
   "entrypoints": [
     "static/css/main.96e948a6.css",
     "static/js/main.8611a83f.js"
->>>>>>> 7b3a340 (Deploy React app)
   ]
 }
